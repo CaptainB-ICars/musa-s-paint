@@ -1,0 +1,35 @@
+.body_backgorund {
+  background-color: black;
+  border-style:ridge;
+  border-width: 30;
+  border-color: goldenrod;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color:brown; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:20px;
+      background-color: black; 
+      border-style:ridge;
+      border-color: brown;
+  }
+
+  button {
+    background-color: black;
+    border-style:ridge ;
+    color:brown;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
